@@ -1,6 +1,7 @@
 from operacoes import *
 import emoji
 
+
 n1 = int(input("Digite o número: "))
 n2 = int(input("Digite o número: "))
     
